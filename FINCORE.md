@@ -1,5 +1,4 @@
-# FINCORE-
-project based on banking management sysytem
+
 // Banking Management System in C 
 #include<stdio.h>  
 #include<stdlib.h> 
